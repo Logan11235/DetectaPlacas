@@ -1,2 +1,3 @@
-# DetectaPlacas
-App de prueba de detección de placas
+# pruebas_pruebas
+
+A new Flutter project.
