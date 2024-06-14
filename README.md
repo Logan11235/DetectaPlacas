@@ -13,7 +13,26 @@ Esta Aplicación se creó con la finalidad de poder detectar las información de
 - Cuenta activa en PlacaApi.pe
 
 ## Modo de uso
-- Abrir la Aplicación
-- Cargar o capturar una imagen, usando los íconos que se encuentran en la parte inferior derecha
-- Verificar que la imagen capturada o seleccionada se cargue correctamente
-- Pulsar el botón de Buscar Placa
+### - Abrir la Aplicación
+  
+![page home](https://github.com/Logan11235/DetectaPlacas/blob/main/assets/Home_page.PNG)
+
+### - Cargar o capturar una imagen, usando los íconos que se encuentran en la parte inferior derecha
+
+![page home](https://github.com/Logan11235/DetectaPlacas/blob/main/assets/Home_page.PNG)
+
+### - Establecer el username de la cuenta de PlacaApi.pe
+
+![page home](https://github.com/Logan11235/DetectaPlacas/blob/main/assets/set_user.PNG)
+
+### - Cargar o capturar una imagen usando los íconos que se encuentran en la parte inferior derecha y asegurarse de que la imagen se muestre en el contenedor
+
+![page home](https://github.com/Logan11235/DetectaPlacas/blob/main/assets/Load_img.PNG)
+
+### - Click en el botón de Buscar Placa y los resultados aparecerán debajo del botón
+
+![page home](https://github.com/Logan11235/DetectaPlacas/blob/main/assets/clickButton.PNG)
+
+### - Deslice hasta el final para ver toda la información completa
+
+![page home](https://github.com/Logan11235/DetectaPlacas/blob/main/assets/ShowResult.PNG)
